@@ -1,6 +1,6 @@
 # SRH
 
-# Multi-Class Classification for Medical Data
+# Multi-Class Classification for SRH Data
 
 This project aims to categorize medical data into 7 distinct classes:
 
