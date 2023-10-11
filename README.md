@@ -5,13 +5,13 @@
 This project aims to categorize medical data into 7 distinct classes:
 
 - 'non-tumor': 0
-- 'adenocarcinoma': 1
-- 'hematopoietic': 2
-- 'squamous cell carcinoma': 3
-- 'melanoma': 4
-- 'neuroendocrine carcinoma': 5
-- 'sarcoma': 6
-- 'urothelial carcinoma': 7
+- 'Adenocarcinoma': 1
+- 'Hematopoietic': 2
+- 'Squamous cell carcinoma': 3
+- 'Melanoma': 4
+- 'Neuroendocrine carcinoma': 5
+- 'Sarcoma': 6
+- 'Urothelial carcinoma': 7
 
 We have adopted two different approaches to achieve this classification task:
 
